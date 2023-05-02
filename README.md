@@ -1,4 +1,4 @@
-#Python Projects
+# Python Projects
 This repository contains fun Python projects:
 
 1. Love Calculator
