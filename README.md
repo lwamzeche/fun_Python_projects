@@ -12,13 +12,13 @@ The Habit Tracker in this repository is specifically designed to track the habit
 3. ## Pong Game
 This is a simple implementation of the classic Pong game in Python, using the Turtle library.
 
-How to Play
+### How to Play
 To play the game, run the main.py file. You can control the paddle on the left side of the screen using the up and down arrow keys, while the computer-controlled paddle on the right side will move automatically to try and hit the ball back. The objective of the game is to score points by hitting the ball past the opponent's paddle. If a player misses the ball and fails to hit it with their paddle, the other player scores a point. The game continues until one player reaches a certain number of points, which can be set in the scoreboard.py file.
 
-Files
+### Files
 main.py: The main file containing the game logic and the game loop.
 paddle.py: A module containing the Paddle class that represents the paddles in the game.
 ball.py: A module containing the Ball class that represents the ball in the game.
 scoreboard.py: A module containing the Scoreboard class that keeps track of the scores in the game.
-Dependencies
+### Dependencies
 This game requires the Turtle library to be installed, which should be included in most Python installations.
